@@ -1,0 +1,7 @@
+project_name: "Amazonian Discovery Engine v2.0"
+random_seed: 42
+causal_discovery:
+  algorithm: "fci"
+  sample_size: 20000
+  significance_level: 0.05
+  pcmci_tau_max: 5

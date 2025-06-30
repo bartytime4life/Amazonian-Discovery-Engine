@@ -1,2 +1,2 @@
-# Amazonian-Discovery-Engine Docker Componant
-South American Archelogy LLM driven Agent for ADE
+# Amazonian Discovery Engine (ADE) 2.0
+This repository contains the complete, production-ready ADE system...
